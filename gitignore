@@ -1,0 +1,7 @@
+credentials*.json
+client_secret*.json
+gmail_token.json
+gmail_modify_token.json
+gmail_emails.csv
+real_world_emails.csv
+preprocessed_emails.csv
